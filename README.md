@@ -10,4 +10,4 @@ Esta divido en 4 areas
 
 4.-DataMarth Detalles de Ventas: Por ultimo se estimo esta area para poder tener analisis mas detallados de las ventas segun la compra de los usuarios al igual que con sus            surcusales
 
-Cada una se esats areas tubo su sistema de analisis en Power BI para un mejor manejo de los datos
+Cada una se esats areas tubo su Dasword de analisis en Power BI para un mejor manejo de los datos
